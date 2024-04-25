@@ -1,4 +1,4 @@
-# DDHPose
+# Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser (DDHPose) AAAI 2024
  Official code for "Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser" (AAAI 2024). Our code will be coming soon.
 
 ## **Citation**
