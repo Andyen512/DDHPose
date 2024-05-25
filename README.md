@@ -1,7 +1,7 @@
 # DDHPose
 The PyTorch implementation for ["Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser"](https://arxiv.org/abs/2403.04444.pdf) (AAAI 2024). 
 
-# Dependencies
+## Dependencies
 Make sure you have the following dependencies installed (python):
 
 * pytorch >= 0.4.0
