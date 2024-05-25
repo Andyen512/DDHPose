@@ -219,7 +219,7 @@ width = cam['res_w']
 height = cam['res_h']
 num_joints = keypoints_metadata['num_joints']
 print('Loading bone index...')
-boneindextemp = args.boneindex.split(',')
+boneindextemp = args.boneindex_h36m.split(',')
 boneindex = []
 for i in range(0,len(boneindextemp),2):
     boneindex.append([int(boneindextemp[i]), int(boneindextemp[i+1])])
