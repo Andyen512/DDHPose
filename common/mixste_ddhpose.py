@@ -313,7 +313,7 @@ class  MixSTE2(nn.Module):
 
         boneindex = []
         args = parse_args()
-        boneindextemp = args.boneindex.split(',')
+        boneindextemp = args.boneindex_h36m.split(',')
         boneindex = []
         for i in range(0,len(boneindextemp),2):
             boneindex.append([int(boneindextemp[i]), int(boneindextemp[i+1])])
