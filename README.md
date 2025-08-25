@@ -1,6 +1,7 @@
 # DDHPose
-The PyTorch implementation for ["Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser"](https://arxiv.org/abs/2403.04444.pdf) (AAAI 2024).  
+The PyTorch implementation for ["Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser"](https://ojs.aaai.org/index.php/AAAI/article/view/27847) (AAAI 2024).  
 
+[![arXiv](https://img.shields.io/badge/arXiv-2403.04444-b31b1b.svg)](https://arxiv.org/abs/2403.04444) 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/disentangled-diffusion-based-3d-human-pose/multi-hypotheses-3d-human-pose-estimation-on)](https://paperswithcode.com/sota/multi-hypotheses-3d-human-pose-estimation-on?p=disentangled-diffusion-based-3d-human-pose)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/disentangled-diffusion-based-3d-human-pose/monocular-3d-human-pose-estimation-on-human3)](https://paperswithcode.com/sota/monocular-3d-human-pose-estimation-on-human3?p=disentangled-diffusion-based-3d-human-pose)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-ffab41)](https://huggingface.co/Andyen512/DDHpose)
