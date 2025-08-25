@@ -3,6 +3,7 @@ The PyTorch implementation for ["Disentangled Diffusion-Based 3D Human Pose Esti
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/disentangled-diffusion-based-3d-human-pose/multi-hypotheses-3d-human-pose-estimation-on)](https://paperswithcode.com/sota/multi-hypotheses-3d-human-pose-estimation-on?p=disentangled-diffusion-based-3d-human-pose)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/disentangled-diffusion-based-3d-human-pose/monocular-3d-human-pose-estimation-on-human3)](https://paperswithcode.com/sota/monocular-3d-human-pose-estimation-on-human3?p=disentangled-diffusion-based-3d-human-pose)
+[![Hugging Face](https://img.shields.io/badge/🤗-Model-blue)](https://huggingface.co/Andyen512/DDHpose)
 
 ## Dependencies
 Make sure you have the following dependencies installed (python):
